@@ -107,7 +107,7 @@ dependencies {
     testImplementation 'org.springframework.boot:spring-boot-starter-test:3.2.1'
 
     // Batik
-    implementation 'org.apache.xmlgraphics:batik-all:1.17'
+    implementation 'org.apache.xmlgraphics:batik-all:1.18'
 
     // TwelveMonkeys
     implementation 'com.twelvemonkeys.imageio:imageio-batik:3.10.1'
